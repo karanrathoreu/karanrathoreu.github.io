@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Disallow: /pricing-comparision
+
+# Host
+Host: https://www.9158.cloud
+
+# Sitemaps
+Sitemap: https://www.9158.cloud/sitemap.xml
